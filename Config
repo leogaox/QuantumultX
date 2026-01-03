@@ -38,7 +38,7 @@ available=狮城节点, server-tag-regex=(?=.*(坡|狮|獅|SG|(?i)Singapore))^((
 available=美国节点, server-tag-regex=(?=.*(美|US|(?i)States|American))^((?!(港|台|本|坡)).)*$, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/US.png
 
 [server_remote]
-https://161.129.35.81/?L1N1YnNjcmlwdGlvbi9TdXJnZU5vZGVMaXN0P3F4PXF4MjAyMiZzaWQ9NDcwOTImdG9rZW49M2YyN2QyZWMyMmU4NmUmbW09NTcxNzgma3RtbT0xdHN3VnBGRzR0YmJ0RmFLSnF1TVN3JTNkJTNkJmQ5ZjAxN2QzMDlhNzQzMzY5NmJmYWYyMTViZjFh
+https://161.129.35.81/?L1N1YnNjcmlwdGlvbi9TdXJnZU5vZGVMaXN0P3F4PXF4MjAyMiZzaWQ9NDcwOTImdG9rZW49M2YyN2QyZWMyMmU4NmUmbW09NTcxNzgma3RtbT0xdHN3VnBGRzR0YjlFV0Rja2NoMVlRJTNkJTNkJmRhNGY4YzNjODRjMjQ=
 
 [filter_remote]
 https://raw.githubusercontent.com/ConnersHua/RuleGo/master/Surge/Ruleset/Direct+.list, tag=直连修正, force-policy=direct, update-interval=172800, opt-parser=true, enabled=true
